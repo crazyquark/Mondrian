@@ -1,5 +1,3 @@
-**Mondrian is a modular cartesian RepRap**
+M1 branch
 
-It can be scaled easily from 20cm to 100cm, simply by changing the lenght of the aluminium profiles
-
-For instructions, see the [RepRap wiki](http://reprap.org/wiki/Mondrian) :)
+This version had moving motors in X and Y, but in Y they were sticking out on the side
