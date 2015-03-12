@@ -1,4 +1,4 @@
-Master branch is about the Mondrian 2.1
+M2.0 branch
 
 **Mondrian is a modular cartesian RepRap**
 
